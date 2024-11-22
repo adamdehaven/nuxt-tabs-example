@@ -1,6 +1,27 @@
-# Nuxt 3 Minimal Starter
+# nuxt-tabs-example
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+```mdc
+::tab-group
+---
+orientation: "horizontal"
+---
+:::tab-item
+#header
+Tab One
+
+#default
+Content for Tab 1
+:::
+
+:::tab-item
+#header
+Tab Two
+
+#default
+Content for Tab 2
+:::
+::
+```
 
 ## Setup
 
