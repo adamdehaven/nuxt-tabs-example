@@ -14,6 +14,9 @@ Content for Tab 1
 :::
 
 :::tab-item
+---
+active: true
+---
 #header
 Tab Two
 
