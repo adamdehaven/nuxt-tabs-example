@@ -1,6 +1,6 @@
 # nuxt-tabs-example
 
-```mdc
+```md
 ::tab-group
 ---
 orientation: "horizontal"
